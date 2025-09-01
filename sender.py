@@ -19,7 +19,7 @@ sg.theme('PrincessSudhi')
 
 # GUI layout
 layout = [
-    [sg.Text("🌸 Sudhi - Ruchitha Sender Pad 🌸", font=("Segoe UI", 16, "bold"),
+    [sg.Text("🌸 Sudhi Sender Pad 🌸", font=("Segoe UI", 16, "bold"),
              text_color='#FF69B4', background_color='#1E1F26', expand_x=True, justification='center')],
     [sg.Multiline("", size=(80,24), font=("Consolas", 13), background_color='#2C2F33',
                   text_color='white', key='-TXT-', enable_events=True)],

@@ -21,7 +21,7 @@ sg.LOOK_AND_FEEL_TABLE['PrincessSudhi'] = my_theme
 sg.theme('PrincessSudhi')
 
 layout = [
-    [sg.Text("🌸 Sudhi - Ruchitha Receiver Pad 🌸", font=("Segoe UI", 16, "bold"),
+    [sg.Text("🌸 Sudhi Receiver Pad 🌸", font=("Segoe UI", 16, "bold"),
              text_color='#FF69B4', background_color='#1E1F26',
              expand_x=True, justification='center')],
     [sg.Multiline("", size=(80,24), font=("Consolas", 13),
